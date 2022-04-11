@@ -1,0 +1,122 @@
+
+
+ <html>
+<head>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+
+
+
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><hr><h1> <center><font color="#FFFFFF">~WELCOME~</font> </center> </h1><hr>
+</head>
+
+
+<body background="../Pictures/download (2).jpeg"><center>
+  <img src="../Pictures/22712368_1572769756149463_4101816133036757163_o.jpg" width="300" height="300">
+</center>
+<br><br><h1><font color="#FFFFFF"
+<p>*R.M.Kapila Bandara is a Chief Inspector of the Sri Lanka Police Department.</p>
+<p>*His tenure is 22 years.He held ranks are Senior Inspector (SI),Inspector of Police (IP) and now he hold Chief Inspector rank.</p>
+<p>*He served as OIC at Trincomalee Police Station, Godakawela Police Station, Boralanda Police Training College and Gandara Police Station
+</p></h1></font>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<div class="gallery">
+  <a target="_blank" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi8itXuiYn3AhWDtlYBHS1nBegQFnoECA0QAQ&url=https%3A%2F%2Fwww.kln.ac.lk%2F&usg=AOvVaw2iR7tw9KdTr1n8t0aezhhG">
+    <img src="C:\Users\AFC\Pictures\46483141_2040807949345639_4510784497771347968_n.jpg" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc"><h4><font color="#FFFFFF">University of Kelaniya</font></h4></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://vymaps.com/LK/Dematagoda-Police-Station--61906/">
+    <img src="C:\Users\AFC\Pictures\269333923_1094207634725651_6121528251413260206_n.jpg" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc"><h5><font color="#FFFFFF">Worke in Dematagoda Police Station(OIC)</font></h5></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://icfcolombo.com/about-icf-colombo-chapter/">
+    <img src="C:\Users\AFC\Pictures\706142_383625475063903_292937630_o.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc"><h4><font color="#FFFFFF">Certified Coach Training Program</font></h4></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjb5tOejIn3AhU9pVYBHXoXDd0QFnoECB4QAQ&url=https%3A%2F%2Fmapcarta.com%2FW384150622&usg=AOvVaw3xRIgda42Ho5s_NSczEos6">
+    <img src="C:\Users\AFC\Pictures\67203293_2425162304243533_6478686479269756928_n.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc"><h4><font color="#FFFFFF">Work in Gandara Police Station(OIC)</font></h4></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.police.lk/index.php/item/30-police-college">
+    <img src="C:\Users\AFC\Pictures\10314731_843580685735044_6699862108983882945_n.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc"><h4><font color="#FFFFFF">Work in Boralanda Police Traning School(OIC)</font></h4></div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjfgbrMkon3AhWgzzgGHVIHBBcQFnoECAwQAQ&url=https%3A%2F%2Fcgu.ruh.ac.lk%2F&usg=AOvVaw0ijdwihaZsSWBvyuoG22vP">
+    <img src="C:\Users\AFC\Pictures\246362274_4558544274238648_717894781592139246_n.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc"><h4><font color="#FFFFFF">Leadership program in Uiversity of Ruhuna</font></h4></div>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<hr><h1><font color="#FF00FF"><center>Contact</center></font></h1><hr>
+
+
+<div class="gallery">
+  <a target="_blank" href="https://www.facebook.com/kapila.sudda">
+    <img src="../Pictures/download.png" alt="Mountains" width="100" height="50">
+  </a>
+  <div class="desc"><h4><font color="#FFFFFF">Facebook</font></h4></div>
+</div>
+
+
+
+
+<div class="gallery">
+  
+    <img src="../Pictures/download (4).jpeg" alt="Mountains" width="100" height="50">
+  </a>
+  <h4><font color="#FFFFFF">Phone Number<br><h3>0772126969</h3></font></h4>
+</div>
+
+<div class="gallery">
+  
+    <img src="../Pictures/download (5).jpeg" alt="Mountains" width="100" height="100">
+  </a>
+  <div class="desc"><h4><font color="#FFFFFF">Gmail<br><h3>rmkapilabandara@gmail.com</h3></font></h4></div>
+</div><br>
+
+
+
+
+
+</body>
+</html> 
